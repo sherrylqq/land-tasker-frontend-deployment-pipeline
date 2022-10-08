@@ -1,1 +1,1 @@
-# land-tasker-frontend-deployment-pipeline
+# land-tasker-frontend react deployment pipeline with AWS CodePipeline and AWS CodeBuild
